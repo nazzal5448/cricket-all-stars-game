@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nazzal5448.github.io/cricket-all-stars-game/sitemap.xml
